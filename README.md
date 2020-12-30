@@ -1,0 +1,2 @@
+# ASUS_ROG_B460i_Gaming_i3_10100
+ASUS_ROG_B460i_Gaming_i3_10100_Opencore_BigSur 
